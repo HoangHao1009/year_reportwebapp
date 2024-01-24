@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+streamlit_option_menu
+plotly
+gdown
